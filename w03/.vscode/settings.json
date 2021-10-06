@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/njucs/Desktop/java2021/jwork-2021/w03/**/*.jar"
+    ]
+}
